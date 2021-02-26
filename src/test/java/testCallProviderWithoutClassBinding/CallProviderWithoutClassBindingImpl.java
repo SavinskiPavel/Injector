@@ -1,0 +1,4 @@
+package testCallProviderWithoutClassBinding;
+
+public class CallProviderWithoutClassBindingImpl implements CallProviderWithoutClassBinding{
+}
