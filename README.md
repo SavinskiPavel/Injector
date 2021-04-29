@@ -65,3 +65,6 @@ public interface Provider<T>
         assertNotNull(daoProvider.getInstance());
         assertSame(InMemoryEventDAOImpl.class, daoProvider.getInstance().getClass());
     }
+	
+	
+![Screenshot_16](https://user-images.githubusercontent.com/79202213/116545987-c62b9480-a8f9-11eb-9328-73232c6c460f.png)
